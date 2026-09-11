@@ -1,0 +1,15 @@
+[submodule "external/tcuq"]
+	path = external/tcuq
+	url = https://github.com/Ism-ail11/TCUQ.git
+[submodule "external/snap_uq"]
+	path = external/snap_uq
+	url = https://github.com/Ism-ail11/SNAP-UQ.git
+[submodule "external/trusttiny_har"]
+	path = external/trusttiny_har
+	url = https://github.com/Ism-ail11/TrustTiny-HAR.git
+[submodule "external/harood"]
+	path = external/harood
+	url = https://github.com/AIFrontierLab/HAROOD.git
+[submodule "external_references/storm_2026_upstream"]
+	path = external_references/storm_2026_upstream
+	url = https://github.com/AlessandroVaraldi/storm.git
